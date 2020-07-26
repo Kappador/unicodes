@@ -1,0 +1,2 @@
+# unicodes
+Discord loves unicodes
