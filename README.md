@@ -1,5 +1,4 @@
 # unicodes
-----
 ## List
 * https://hastebin.com/hokazapedi.coffeescript
   Send this to the specific channel, then edit the message
